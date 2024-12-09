@@ -26,7 +26,7 @@ This project analyzes WhatsApp chat data to uncover interesting trends, insights
   - Wordcloud
   - Regex
   ### Customization
-- **Modify chat_analysis.py to:**
+- **Modify whatsapp_chat_analysis.py to:**
   - Add custom filters (e.g., ignore specific users or keywords).
   - Analyze multimedia messages by integrating export files with media references.
   - Extend time-based analysis (e.g., monthly trends).
